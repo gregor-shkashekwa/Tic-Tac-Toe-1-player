@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp101.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe.config
+C:\Users\user\source\repos\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe
+C:\Users\user\source\repos\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.pdb
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.exe
+C:\Users\user\source\repos\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.pdb
+C:\Users\user\Desktop\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe.config
+C:\Users\user\Desktop\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe
+C:\Users\user\Desktop\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.pdb
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp101.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.exe
+C:\Users\user\Desktop\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.pdb
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe.config
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.pdb
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.AssemblyReference.cache
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp101.Form1.resources
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Properties.Resources.resources
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.GenerateResource.cache
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.CoreCompileInputs.cache
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.exe
+L:\9ИС-285\Калашников Г. А. 285\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.pdb
